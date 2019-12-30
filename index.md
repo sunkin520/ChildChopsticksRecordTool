@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Child Chopsticks Record Tool
 
-You can use the [editor on GitHub](https://github.com/sunkin520/ChildChopsticksRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Have you ever had a situation where your child didn't know how to use chopsticks, or didn't use them the right way, leading to food failure or slow or difficult eating? This app can help you solve this problem well. When you eat with your child, you can teach him how to use chopsticks, and you can record the process, as well as the color of his favorite chopsticks, eating habits and whether he is happy. You can write them down and store them. Convenient for you to manage the correct use of the child, let the child healthy growth.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-# Header 1
-## Header 2
-### Header 3
+We will answer them for you in the first time.
 
-- Bulleted
-- List
+### Address: sun778297ma@163.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunkin520/ChildChopsticksRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
